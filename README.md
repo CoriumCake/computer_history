@@ -1,7 +1,7 @@
 # The Evolution of Computers: From Abacus to AI
 
 ## Slide 1: Title Slide  
-- **Color Theme**: **Gold (#FFD700)![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) `#FFD700` and Deep Blue (#003366)**![#003366](https://placehold.co/15x15/003366/003366.png) `#003366`
+- **Color Theme**: **Gold (#FFD700) ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) and Deep Blue (#003366)** ![#003366](https://placehold.co/15x15/003366/003366.png)
 - **Title**: "The Evolution of Computers: From Abacus to AI"
 - **Subtitle**: "A 10-Minute Journey Through the History of Computing"
 
